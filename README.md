@@ -1,3 +1,3 @@
 # DocBot
-This is a 'self learning' chatbot program.
-This is a basic chatbot which tells about the covid-19 queries.
+
+This is a chatbot which tells about the covid-19 queries using information available over internet using web scraping.
